@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @yogitapatil25
+- 👀 I’m interested in Data Science and Machine Learning ...
+- 🌱 I’m currently working as Associate Consultant at Atos ...
+- 📫 How to reach me ...
+
+<!---
+yogitapatil25/yogitapatil25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
